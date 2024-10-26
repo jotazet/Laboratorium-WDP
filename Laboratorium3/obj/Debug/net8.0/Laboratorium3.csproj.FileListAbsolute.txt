@@ -1,0 +1,14 @@
+/home/work/Documents/Laboratorium WDP/Laboratorium3/bin/Debug/net8.0/Laboratorium3
+/home/work/Documents/Laboratorium WDP/Laboratorium3/bin/Debug/net8.0/Laboratorium3.deps.json
+/home/work/Documents/Laboratorium WDP/Laboratorium3/bin/Debug/net8.0/Laboratorium3.runtimeconfig.json
+/home/work/Documents/Laboratorium WDP/Laboratorium3/bin/Debug/net8.0/Laboratorium3.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium3/bin/Debug/net8.0/Laboratorium3.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.AssemblyInfoInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.AssemblyInfo.cs
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.csproj.CoreCompileInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/refint/Laboratorium3.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/Laboratorium3.genruntimeconfig.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium3/obj/Debug/net8.0/ref/Laboratorium3.dll
