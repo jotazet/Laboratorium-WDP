@@ -10,7 +10,8 @@
             //Zadanie4();
             //Zadanie5();
             //Zadanie6();
-            Zadanie7();
+            //Zadanie7();
+            Zadanie8();
         }
         public static void Zadanie1(){
             decimal balans = 56;
@@ -176,6 +177,53 @@
                     break;
                 default:
                     Console.WriteLine("Nie obsługuję liczb spoza zakresu od 1 do 20!");
+                    break;
+            }
+        }
+
+        public static void Zadanie8()
+        {
+            char hex = '9';
+            switch (hex)
+            {
+                case '0':
+                case '1':
+                case '2':
+                case '3':
+                case '4':
+                case '5':
+                case '6':
+                case '7':
+                case '8':
+                case '9':
+                    Console.WriteLine(hex);
+                    break;
+                case 'a':
+                case 'A':
+                    Console.WriteLine("10");
+                    break;
+                case 'b':
+                case 'B':
+                    Console.WriteLine("11");
+                    break; 
+                case 'c':
+                case 'C':
+                    Console.WriteLine("12");
+                    break;
+                case 'd':
+                case 'D':
+                    Console.WriteLine("13");
+                    break; 
+                case 'e':
+                case 'E':
+                    Console.WriteLine("14");
+                    break;
+                case 'f':
+                case 'F':
+                    Console.WriteLine("15");
+                    break;
+                default:
+                    Console.WriteLine("To nie jest cyfra szesnastkowa");
                     break;
             }
         }
