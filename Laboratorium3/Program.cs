@@ -79,30 +79,32 @@
         }
         public static void Zadanie6()
         {
-            int code = 16;
-            int quantity = 21;
+            int code = 4;
+            int quantity = 11;
             decimal price = 3.5m;
-            decimal sellPrice;
+            decimal discountMultiplier = 1.00m;
 
-            sellPrice = 0m;
-
-            if (code < 10)
-                sellPrice = price;
-            else if (code <= 15)
-                sellPrice = price * 0.95m;
-            else
+            if (code >= 10 && code <= 15)
             {
-                if (quantity <= 20)
-                    sellPrice = price;
-                else if (quantity < 100)
+                discountMultiplier = 0.95m;
+            }
+            else if (code >= 16)
+            {
+                if (quantity <= 10)
                 {
-                    decimal discountMultiplier = (decimal)quantity / 10 / 100 + 1;
-                    sellPrice = Math.Round(price * discountMultiplier, 2);
+                    discountMultiplier = 1.05m;
                 }
-                else
-                    sellPrice = price * 0.90m;
+                else if (quantity > 20 && quantity < 100)
+                {
+                    discountMultiplier -= Math.Floor((decimal)quantity / 10) / 100;
+                }
+                else if (quantity >= 100)
+                {
+                    discountMultiplier = 0.90m;
+                }
             }
 
+            decimal sellPrice = Math.Round(price * discountMultiplier, 2, MidpointRounding.AwayFromZero);
             Console.WriteLine($"Price: {sellPrice}");
         }
 
