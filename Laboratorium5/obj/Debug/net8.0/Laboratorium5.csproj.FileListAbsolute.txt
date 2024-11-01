@@ -1,0 +1,15 @@
+/home/work/Documents/Laboratorium WDP/Laboratorium5/bin/Debug/net8.0/Laboratorium5
+/home/work/Documents/Laboratorium WDP/Laboratorium5/bin/Debug/net8.0/Laboratorium5.deps.json
+/home/work/Documents/Laboratorium WDP/Laboratorium5/bin/Debug/net8.0/Laboratorium5.runtimeconfig.json
+/home/work/Documents/Laboratorium WDP/Laboratorium5/bin/Debug/net8.0/Laboratorium5.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium5/bin/Debug/net8.0/Laboratorium5.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.AssemblyInfoInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.AssemblyInfo.cs
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.csproj.CoreCompileInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.sourcelink.json
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/refint/Laboratorium5.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/Laboratorium5.genruntimeconfig.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium5/obj/Debug/net8.0/ref/Laboratorium5.dll

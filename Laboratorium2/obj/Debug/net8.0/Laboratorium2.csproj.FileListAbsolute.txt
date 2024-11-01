@@ -1,0 +1,15 @@
+/home/work/Documents/Laboratorium WDP/Laboratorium2/bin/Debug/net8.0/Laboratorium2
+/home/work/Documents/Laboratorium WDP/Laboratorium2/bin/Debug/net8.0/Laboratorium2.deps.json
+/home/work/Documents/Laboratorium WDP/Laboratorium2/bin/Debug/net8.0/Laboratorium2.runtimeconfig.json
+/home/work/Documents/Laboratorium WDP/Laboratorium2/bin/Debug/net8.0/Laboratorium2.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium2/bin/Debug/net8.0/Laboratorium2.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.AssemblyInfoInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.AssemblyInfo.cs
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.csproj.CoreCompileInputs.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.sourcelink.json
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/refint/Laboratorium2.dll
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.pdb
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/Laboratorium2.genruntimeconfig.cache
+/home/work/Documents/Laboratorium WDP/Laboratorium2/obj/Debug/net8.0/ref/Laboratorium2.dll

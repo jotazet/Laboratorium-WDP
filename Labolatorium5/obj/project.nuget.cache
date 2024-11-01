@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3naBvc/s7g=",
+  "success": true,
+  "projectFilePath": "/home/work/Documents/Laboratorium WDP/Labolatorium5/Labolatorium5.csproj",
+  "expectedPackageFiles": [
+    "/home/work/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
